@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @swelihle25
-- 👀 I’m interested in exploring the world of programming and technology
-- 🌱 I’m currently learning 🌱  various programming languages and frameworks to enhance my skills and broaden my knowledge.
+-  Hi, I’m @swelihle25
+-  I’m interested in exploring the world of programming and technology
+- I’m currently learning   various programming languages and frameworks to enhance my skills and broaden my knowledge.
 
-- 💞️ I’m looking to collaborate on 💞️  on interesting projects that challenge me and allow me to grow as a developer.
+- I’m looking to collaborate   on interesting projects that challenge me and allow me to grow as a developer.
  ...
 - 📫 How to reach me
 - Email [swkhuzw022@student.wethinkcode.co.za / swelihlekhuzwayo06@gmail.com]...
